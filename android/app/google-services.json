@@ -1,0 +1,246 @@
+{
+  "project_info": {
+    "project_number": "386997494931",
+    "project_id": "notifications-and-login",
+    "storage_bucket": "notifications-and-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386997494931:android:fca16384e891ad68ba1966",
+        "android_client_info": {
+          "package_name": "com.cubecle.ayurpass_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386997494931-la77spaip7qbtvmuh59ts26vtihlubp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubecle.ayurpass_user",
+            "certificate_hash": "95ab6c086199946d405a0c90977151ee0dab0a5d"
+          }
+        },
+        {
+          "client_id": "386997494931-m7g2vvadcip7hrnidhhc0ok16lakmkab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubecle.ayurpass_user",
+            "certificate_hash": "864216bbf2aed769d82525bf607f32c21199ecbc"
+          }
+        },
+        {
+          "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4TsHZ3CAk75tjFTJSSF7eNzCYm2ryxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386997494931-gkqke1llt47smmatnkboa16a13518ruc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubecle.marafiq-burhaniyah"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386997494931:android:351ffbbe177b46b4ba1966",
+        "android_client_info": {
+          "package_name": "com.cubecle.markshark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386997494931-d00i2uakckuenj69rtlgepiddq2pbdg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubecle.markshark",
+            "certificate_hash": "6b4e1cad2cb08bdf715ef257262042d0d90f63e8"
+          }
+        },
+        {
+          "client_id": "386997494931-n6aabkgdu1q8unihk3ofelnt9negup7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubecle.markshark",
+            "certificate_hash": "68a905ae7fa74a99a820d4dfc76ad6835d5f12b9"
+          }
+        },
+        {
+          "client_id": "386997494931-p6bmgsqhoelg2mun6e8brteqmdl3em4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubecle.markshark",
+            "certificate_hash": "95ab6c086199946d405a0c90977151ee0dab0a5d"
+          }
+        },
+        {
+          "client_id": "386997494931-qdaedmqkhhpe54sss3nkvasd1eve5aed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubecle.markshark",
+            "certificate_hash": "864216bbf2aed769d82525bf607f32c21199ecbc"
+          }
+        },
+        {
+          "client_id": "386997494931-sfang2b2tij4q2v9sf8d8gm2emmol8uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubecle.markshark",
+            "certificate_hash": "004f4ecd9e26a55d138676b983d82e8419612521"
+          }
+        },
+        {
+          "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4TsHZ3CAk75tjFTJSSF7eNzCYm2ryxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386997494931-gkqke1llt47smmatnkboa16a13518ruc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubecle.marafiq-burhaniyah"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386997494931:android:1dc5594507493579ba1966",
+        "android_client_info": {
+          "package_name": "com.cubecle.repair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4TsHZ3CAk75tjFTJSSF7eNzCYm2ryxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386997494931-gkqke1llt47smmatnkboa16a13518ruc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubecle.marafiq-burhaniyah"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386997494931:android:555689224739f3edba1966",
+        "android_client_info": {
+          "package_name": "com.dipakmsg.kabadi_wala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4TsHZ3CAk75tjFTJSSF7eNzCYm2ryxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386997494931-gkqke1llt47smmatnkboa16a13518ruc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubecle.marafiq-burhaniyah"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386997494931:android:c92b3184ca6dcfd1ba1966",
+        "android_client_info": {
+          "package_name": "com.hamiters.markshark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4TsHZ3CAk75tjFTJSSF7eNzCYm2ryxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386997494931-2u908i25vl5mugk7bgga4s9r8n0lmm13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386997494931-gkqke1llt47smmatnkboa16a13518ruc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubecle.marafiq-burhaniyah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
